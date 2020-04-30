@@ -4,3 +4,4 @@ lineageperformance                        u:object_r:lineage_performance_service
 profile                                   u:object_r:lineage_profile_service:s0
 longshot                                  u:object_r:longshot_service:s0
 pocket                                    u:object_r:pocket_service:s0
+applock					  u:object_r:applock_service:s0
